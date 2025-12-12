@@ -1,5 +1,6 @@
 # The Billionaires' Dashboard 2025
 This project is an excel dashboard that breaks down the world of billionaires in a simple and engaging way. It highlights who the richest people are, where they come from, the industries driving their wealth and some interesting patterns behind their success.
+![Dashboard Preview](https://github.com/Eaziboy1/Billionaires-Dashboard/blob/main/B.Dashboard%20Page.PNG)
 ## What the Dashboard Shows
 **1. Net Worth Overview**
 A combination of bar and line charts show how net worth varies across the top billionaires. It makes it easy to spot the biggest names and see the general trends.
