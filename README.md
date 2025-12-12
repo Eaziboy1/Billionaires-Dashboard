@@ -19,6 +19,7 @@ This sort of adds more context to the story behind their success.
 
 **5. Regional Trends**
 The billionaires are grouped by regions, and this helps highlight which parts of the world have the most billionaires.
+![Sliced view](https://github.com/Eaziboy1/Billionaires-Dashboard/blob/main/Sliced%20Page.PNG)
 ### Tools and Skills Used
 * Data cleaning and transformation
 * Pivot tables
